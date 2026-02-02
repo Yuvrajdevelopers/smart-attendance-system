@@ -10,9 +10,9 @@ Manual attendance systems are time-consuming, prone to proxy attendance, and do 
 This project provides a digital attendance system combined with engagement monitoring through quizzes and participation tracking. Data is stored securely and presented using analytics dashboards to support informed academic decisions.
 
 ## Technology Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python Flask / Node.js
-- Database: SQLite / MongoDB
+- Frontend: React
+- Backend: Node.js
+- Database: MongoDB
 - Tools: GitHub, VS Code
 
 ## Key Features
